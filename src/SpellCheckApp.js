@@ -12,7 +12,7 @@ export default function App() {
   const [inputText, setInputtext] = useState("");
   const [suggestedText, setsuggestedText] = useState("");
 
-  handleInputChange = (e) => {
+   const handleInputChange = (e) => {
     const text = e.target.value;
     setInputtext(text);
 
