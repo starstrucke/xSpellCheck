@@ -1,0 +1,2 @@
+# xSpellCheck
+Created with CodeSandbox
